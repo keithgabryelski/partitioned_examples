@@ -1,4 +1,5 @@
-#!/usr/bin/env ../spec/dummy/script/rails runner
+#!/usr/bin/env ../../script/rails runner
+# -*- coding: utf-8 -*-
 # if you use linux, please change previous line to the
 # "#! ../spec/dummy/script/rails runner"
 

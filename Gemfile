@@ -6,7 +6,8 @@ gem 'rails', '3.2.6'
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
 
 gem 'pg', '0.13.2'
-gem 'partitioned', '0.8.0'
+gem 'partitioned', '1.0.1'
+#gem 'partitioned', :git => 'git@github.com:fiksu/partitioned.git'
 
 gem 'json'
 
