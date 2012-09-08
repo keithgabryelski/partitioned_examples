@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'rails', :path => '~/sandbox/rails'
+gem 'rails', :path => '~/sandbox/rails_patching/rails'
 #gem 'rails', '3.2.8'
 
 # Bundle edge Rails instead:
@@ -9,7 +9,7 @@ gem 'rails', :path => '~/sandbox/rails'
 gem 'pg', '0.13.2'
 #gem 'partitioned', '1.0.1'
 #gem 'partitioned', :git => 'git@github.com:fiksu/partitioned.git'
-gem 'partitioned', :path => '~/sandbox/partitioned'
+gem 'partitioned', :path => '~/sandbox/rails_patching/partitioned'
 
 gem 'json'
 
