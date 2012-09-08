@@ -1,7 +1,7 @@
 PATH
-  remote: ~/sandbox/partitioned
+  remote: ~/sandbox/partitioned-2-0-0
   specs:
-    partitioned (1.0.1)
+    partitioned (2.0.0)
       pg
       rails (>= 3.0.0)
       rspec-rails
